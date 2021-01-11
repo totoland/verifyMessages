@@ -39,4 +39,7 @@ public class App {
         System.out.println("Signature correct: " + isCorrect);
     }
 
+	public void featureA() {
+        System.out.println("This is A.");
+    }
 }
