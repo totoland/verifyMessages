@@ -42,4 +42,8 @@ public class App {
     public void featureB() {
         System.out.println("This is B.");
     }
+	
+	 public void featureA() {
+        System.out.println("This is A.");
+    }
 }
