@@ -43,7 +43,7 @@ public class App {
         System.out.println("This is B.");
     }
 	
-	 public void featureA() {
-        System.out.println("This is A.");
+	public void featureA() {
+        System.out.println("This is A XXX.");
     }
 }
